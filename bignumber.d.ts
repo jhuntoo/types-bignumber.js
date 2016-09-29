@@ -247,7 +247,7 @@ declare module 'bignumber.js' {
      * (They are not referenced internally by the library itself.)
      * Rounding modes 0 to 6 (inclusive) are the same as those of Java's BigDecimal class.
      */
-    declare enum RoundingMode {
+    export enum RoundingMode {
         /** Rounds away from zero */
         ROUND_UP = 0,
         /** Rounds towards zero */

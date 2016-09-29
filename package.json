@@ -3,5 +3,6 @@
     "version": "2.4.0",
     "author": "CODE AND MORE",
     "private": false,
-    "license": "MIT"
+    "license": "MIT",
+    "types": "bignumber.d.ts"
 }
